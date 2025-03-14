@@ -1,7 +1,7 @@
 # 📚 **Book Genre Ratings Analysis** 📊  
 
 ## **Project Overview**  
-This project analyzes **book genres and their ratings** using **Pandas, Plotly, and GreatTables**. It presents **structured tables and facet charts** to explore how **ratings vary across genres and between male and female readers**.  
+This project analyzes **book genres and their ratings** using **Pandas, Plotly, and GreatTables**. It presents **structured tables and different bar charts** to explore how **ratings vary across genres and between male and female readers**.  
 
 ### **Key Features**  
 - 📋 **Formatted Data Tables** for book genres and their ratings.  
